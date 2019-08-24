@@ -1,13 +1,6 @@
 # The-best-classifier
 ## Asmit Kumar: 183110048: MEMS
-In the project, Getting Started With Natural Language Processing in Python, we will use tokenizing, part-of-speech tagging, stemming, chunking, and named entity recognition. 
-
-In this project, we will do study different ways to improve our text classification results. We will cover and use:
-    
-Regular Expressions
-
-Feature Engineering
-
-Multiple scikit-learn Classifiers
-
-Ensemble Methods
+Preprocessed the data obtained from IBM Cloud and visualized with Seaborn python library
+ Applied K Nearest Neighbor, Decision Tree, Support Vector Machine and Logistic Regression on dataset
+ Measured accuracy using Jaccard index, F1-Score and LogLoss metrics
+ Concluded that SVM was most accurate with Jaccard index 0.79 and 0.75 F1-score metrics
